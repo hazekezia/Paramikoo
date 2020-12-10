@@ -11,6 +11,8 @@ Kelompok 6
 
 ### Settings
 
+Library : <a href=https://pypi.org/project/paramiko/> Paramiko (PyPI)</a>
+
 IP Settings :
 <blockquote>ip_list = ["192.168.43.234","192.168.43.153","192.168.43.247","192.168.43.249"]</blockquote>
 
@@ -19,3 +21,5 @@ Username :
 
 Password :
 <blockquote>password = "haze"</blockquote>
+
+How to use : check <i><a href=https://github.com/hazekezia/Paramikoo/blob/main/Dokumentasi/KELOMPOK%206_DokumentasiUAS.pdf>documentation</a></i>
